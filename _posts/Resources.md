@@ -1,7 +1,6 @@
 ---
 title: Resources
 author: sathe
-date: 2024-06-01
 categories: [resources]
 tags: [health, links]
 ---
@@ -16,6 +15,14 @@ tags: [health, links]
 - [Remarkable Tablet](https://remarkable.com)
 - [Speechify](https://speechify.com)
 - [Whoop](https://whoop.com)
+
+## Cool Projects
+
+- [Ozlo Sleepbuds](https://www.indiegogo.com/projects/ozlo-sleepbuds-the-next-generation-sleepbuds)
+- [ChessUp2](https://www.indiegogo.com/projects/chessup-2-chess-com-on-a-real-board--4#/)
+- [GH Carabiner](https://www.indiegogo.com/projects/gh-carabiner-titanium-17-in-1-edc#/)
+- [Invisibility Shield](https://www.indiegogo.com/projects/a-real-working-invisibility-shield#/)
+
 
 ## Misc.
 

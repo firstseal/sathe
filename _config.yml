@@ -68,8 +68,8 @@ comments:
   # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: seth-rip.disqus.com
-    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: seth-rip
+  # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>

@@ -185,6 +185,9 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+#paginate v1
+paginate: off
+
 pagination:
   enabled: true
   per_page: 9

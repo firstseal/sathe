@@ -104,7 +104,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: off
 
 # The base URL of your site
 baseurl: "seth.rip"
@@ -184,9 +184,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-#paginate v1
-paginate: off
 
 pagination:
   enabled: true

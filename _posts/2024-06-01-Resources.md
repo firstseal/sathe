@@ -3,7 +3,7 @@ title: Resources
 author: sathe
 date: 2024-06-01
 categories: [resources]
-tags: [me]
+tags: [health, links]
 ---
 
 > New information may appear on seperate pages.

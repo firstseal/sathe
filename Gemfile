@@ -11,3 +11,4 @@ gem 'jekyll-optional-front-matter'
 gem "jekyll-paginate-v2"
 gem "jekyll-auto-authors"
 gem 'jekyll-loading-lazy'
+gem 'jekyll-typogrify'

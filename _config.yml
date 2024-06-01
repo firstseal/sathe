@@ -189,3 +189,4 @@ plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-loading-lazy
+  - jekyll-typogrify

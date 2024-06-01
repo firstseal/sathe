@@ -194,3 +194,4 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-typogrify
   - jemoji
+  - jekyll-spaceship

@@ -185,8 +185,12 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+scholar:
+  style: modern-language-association
+
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-loading-lazy
   - jekyll-typogrify
+  - jemoji

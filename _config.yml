@@ -53,7 +53,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://wallup.net/wp-content/uploads/2019/09/720988-tree-forest-road-fog-rain-autumn-mood.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -187,3 +187,4 @@ jekyll-archives:
 
 plugins:
   - jekyll-feed
+  - jekyll-optional-front-matter

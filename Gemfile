@@ -7,3 +7,4 @@ gem "jekyll-theme-chirpy"
 gem 'jekyll-feed'
 gem 'jekyll-tagging'
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-optional-front-matter'

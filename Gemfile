@@ -8,3 +8,5 @@ gem 'jekyll-feed'
 gem 'jekyll-tagging'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-optional-front-matter'
+gem "jekyll-paginate-v2"
+gem "jekyll-auto-authors"

@@ -1,9 +1,12 @@
 sathe:
-  name: sathe
+  name: 'sathe'
+  bio: 'sathe, firstseal'
 seth:
-  name: Seth
-  url: https://seth.rip
+  name: 'Seth'
+  url: 'https://seth.rip'
 unknown:
-  name: unknown
+  name: 'unknown'
+  bio: 'mysterious person(s) we are unsure of.'
 d:
-  name: d
+  name: 'd'
+  bio: "for reasons we can't  be descriptive here"

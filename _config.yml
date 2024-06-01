@@ -185,6 +185,39 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+
+autopages:
+  # Other autopage configs stay the same
+  enabled: true
+  categories:
+    enabled: false
+  tags:
+    enabled: false
+  collections:
+    enabled: false
+  # Add this block
+  authors:
+    enabled: true
+    data: '_data/authors.yml' # Data file with the author details
+    # Uncomment the line below to force exclude certain authors from autopage generation.
+    # exclude: [ "author1", "author2" ]
+    layouts:
+      - 'author.html' # We'll define this layout later
+    title: 'Posts by :author'
+    permalink: '/author/:author/'
+    slugify:
+      mode: 'default' # choose from [raw, default, pretty, ascii or latin]
+      cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
+
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
+  - jekyll-paginate-v2
+  - jekyll-auto-authors

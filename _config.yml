@@ -64,7 +64,7 @@ toc: true
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: giscus
+  provider: disqus
   # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
@@ -184,6 +184,18 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+autopages:
+
+  # Other autopage configs stay the same
+  enabled: true
+
+  categories:
+    enabled: false
+  tags:
+    enabled: false
+  collections:
+    enabled: false
 
 plugins:
   - jekyll-feed

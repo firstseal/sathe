@@ -188,3 +188,4 @@ jekyll-archives:
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
+  - jekyll-loading-lazy

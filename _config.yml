@@ -251,6 +251,9 @@ jekyll-spaceship:
       class: emoji
     src: https://github.githubassets.com/images/icons/emoji/
 
+redirect_from:
+  json: false
+
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -259,3 +262,4 @@ plugins:
   - jemoji
   - jekyll-spaceship
   - jekyll_include_plugin
+  - jekyll-redirect-from

@@ -258,3 +258,4 @@ plugins:
   - jekyll-typogrify
   - jemoji
   - jekyll-spaceship
+  - jekyll_include_plugin

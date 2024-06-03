@@ -15,6 +15,6 @@ gem 'jekyll-typogrify'
 gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'jekyll-scholar'
-gem 'jekyll-spaceship', group [:jekyll_plugins]
+gem 'jekyll-spaceship', group: [:jekyll_plugins]
 gem 'jekyll_include_plugin'
 gem 'jekyll-redirect-from'

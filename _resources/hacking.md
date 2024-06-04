@@ -1,6 +1,6 @@
 ---
 title: Hacking Resources
-comments: true
+toc: true
 ---
 
 List of penetration-testing tools and whatnot.

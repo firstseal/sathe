@@ -6,4 +6,4 @@ order: 6
 # Collections
 *This is a directory of various resources*
 
-- [Health](../_resources/health.md)
+- [Health](./resources/health)

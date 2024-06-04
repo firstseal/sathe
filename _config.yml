@@ -130,6 +130,7 @@ collections:
     sort_by: order
   resources:
     output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:

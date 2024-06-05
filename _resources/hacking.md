@@ -1,5 +1,6 @@
 ---
 title: Hacking Resources
+layout: page
 toc: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Health Resources
+layout: page
 toc: true
 ---
 

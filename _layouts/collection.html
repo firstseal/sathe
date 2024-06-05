@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
+title: Resources
 ---
 
-{% for resource in site.resources %}
-  <h2>
-    <a href="{{ resource.url }}">
-    </a>
-  </h2>
 
+{% for resource in site.resources %}
+  <div class="resource">
+    <h2><a href="{{ resource.url }}">{{ resource.title }}</a></h2>
+  </div>
 {% endfor %}

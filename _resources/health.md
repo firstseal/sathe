@@ -4,8 +4,6 @@ layout: page
 toc: true
 ---
 
-# Health Resources
-
 ## Health & Fitness
 
 > This is a **work in progress**.

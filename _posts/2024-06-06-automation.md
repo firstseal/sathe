@@ -1,5 +1,5 @@
 ---
-title: analysis
+title: automation
 author: Seth
 date: 2024-06-06 11:08
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT

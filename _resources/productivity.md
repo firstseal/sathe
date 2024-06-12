@@ -15,7 +15,7 @@ BrainFM is music that is scientifically proven to help increase focus. I find it
 
 Read text aloud, and helps increase reading speed.
 
-= [Remarkable Tablet](https://remarkable.com)
+- [Remarkable Tablet](https://remarkable.com)
 
 An e-ink tablet. No distractions.
 

@@ -1,7 +1,7 @@
 ---
 title: Brain
 layout: page
-toc: true
+toc: false
 ---
 
 - Eat Blueberries

@@ -28,6 +28,9 @@ url: "https://seth.rip"
 github:
   username: firstseal # change to your github username
 
+
+social:
+  email: seth@seth.rip
 # Pageviews settings
 pageviews:
   provider: goatcounter

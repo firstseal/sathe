@@ -13,7 +13,7 @@ BrainFM is music that is scientifically proven to help increase focus. I find it
 
 - [Speechify](https://speechify.com)
 
-Read text aloud, and helps increase reading speed.
+Read text aloud, and helps increase reading speed. I find it extremely useful, I can listen to Mr. Beat or Dwight read my books. It's quite amazing actually.
 
 - [Remarkable Tablet](https://remarkable.com)
 
@@ -21,4 +21,4 @@ An e-ink tablet. No distractions.
 
 - [Remnote](https://remnote.com)
 
-Productivity note taking.
+Productivity note taking. Better then anything i've used so far, especially with Anki integration.

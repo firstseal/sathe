@@ -1,7 +1,7 @@
 ---
 title: trauma team
 author: [seth]
-date: 2024-07-06 12:19
+date: 2024-07-06 00:19
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]
 tags: [health]

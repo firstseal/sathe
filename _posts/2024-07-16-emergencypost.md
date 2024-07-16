@@ -1,7 +1,7 @@
 ---
 title: emergency [posting]
 author: [unknown]
-date: 2024-07-16 12:52
+date: 2024-07-16 00:52
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [future]
 tags: [clear]

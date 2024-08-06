@@ -1,6 +1,6 @@
 ---
 title: Unsure
-author: [Sathe]
+author: [sathe]
 date: 2024-08-04 17:25
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]

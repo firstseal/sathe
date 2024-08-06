@@ -1,6 +1,6 @@
 ---
 title: I'm a failure.
-author: [Seth]
+author: [seth]
 date: 2024-08-05 22:48
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]

@@ -23,6 +23,23 @@ toc: false
 
 - [Healthline](https://www.healthline.com/)
 
+- [FMHY](https://fmhy.net/edupiracyguide)
+
+- [Everyday Dose](https://www.everydaydose.com/)
+
+---
+
+## Things I use for myself
+
+- [Whoop](https://join.whoop.com/seth)
+
+- [Apollo](https://apolloneuro.com/)
+
+- [OzloSleepbuds](https://ozlosleep.com/)
+
+- [Foci](https://fociai.com/)
+
+
 ---
 
 ## Help Myself

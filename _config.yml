@@ -262,4 +262,3 @@ plugins:
   - jekyll_include_plugin
   - jekyll-redirect-from
   - jekyll-toc
-  - premonition

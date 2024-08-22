@@ -19,4 +19,3 @@ gem 'jekyll-spaceship', group: [:jekyll_plugins]
 gem 'jekyll_include_plugin'
 gem 'jekyll-redirect-from'
 gem 'jekyll-toc'
-gem 'premonition'

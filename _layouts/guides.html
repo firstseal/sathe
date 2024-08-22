@@ -1,0 +1,12 @@
+---
+layout: page
+title: Guides
+---
+
+{{ content  | toc }}
+
+{% for guide in site.guides %}
+  <div class="guide">
+    <h2><a href="{{ guide.url }}">{{ guide.title }}</a></h2>
+  </div>
+{% endfor %}

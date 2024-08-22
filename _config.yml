@@ -134,6 +134,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:name
+  guides:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:

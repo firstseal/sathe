@@ -1,6 +1,6 @@
 ---
 layout: guides
-icon: fa-solid fa-list
+icon: fa-solid reciept
 order: 5
 ---
 > Various guides I write will be automatically posted here.

@@ -200,7 +200,7 @@ jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-#    - mathjax-processor
+    - mathjax-processor
     - plantuml-processor
     - mermaid-processor
     - polyfill-processor
@@ -217,8 +217,8 @@ jekyll-spaceship:
           - ['$','$']
           - ['\(','\)']
         displayMath:
-          - ['$$','$$']
-          - ['\[','\]']
+#          - ['$$','$$']
+#          - ['\[','\]']
       svg:
         fontCache: 'global'
     optimize: # optimization on building stage to check and add mathjax scripts

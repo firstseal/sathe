@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Security Guide
-layout: page
+layout: guide_post
 toc: true
 ---
 

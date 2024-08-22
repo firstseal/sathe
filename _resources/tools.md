@@ -39,6 +39,9 @@ toc: false
 
 - [Foci](https://fociai.com/)
 
+- [BrainFM](https://brain.fm)
+    > Music scientifically proven to increase focus
+
 
 ---
 

@@ -24,7 +24,10 @@ tail_includes:
         {{ site.data.locales[lang].post.posted }}
         {% include datetime.html date=page.date tooltip=true lang=lang %}
       </span>
-
+      <span>
+        {% include views.html tooltip=true lang=lang %}
+        {{ site.data.locales[lang].post.pageview_measure }}
+      </span>
       <!-- lastmod date -->
       {% if page.last_modified_at and page.last_modified_at != page.date %}
         <span>

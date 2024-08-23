@@ -1,34 +1,16 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
-
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
 title: Sathe's Mind # the main title
-
 tagline: A look inside my mind # it will display as the sub-title
-
 description: >- # used by seo meta and the atom feed
   A place for my head.
-
-# Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://seth.rip"
-
 github:
   username: firstseal # change to your github username
-
-
 social:
   email: seth@seth.rip
 # Pageviews settings
@@ -36,17 +18,6 @@ pageviews:
   provider: goatcounter
   # now only supports 'goatcounter'
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
-#
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.

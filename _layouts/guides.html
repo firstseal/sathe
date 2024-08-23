@@ -7,7 +7,6 @@ title: Guides
 
 {% for guide in site.guides %}
   <div class="guide">
-    <h2><a href="{{ guide.url }}">{{ guide.title }}</a></h2>
-    - <q> {{ guide.description }}</q>
+    <h2><a href="{{ guide.url }}">{{ guide.title }}</a></h2> <blockquote><q> {{ guide.description }}</q></blockquote>
   </div>
 {% endfor %}

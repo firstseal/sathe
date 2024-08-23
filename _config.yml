@@ -17,7 +17,6 @@ social:
 pageviews:
   provider: goatcounter
   # now only supports 'goatcounter'
-
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
@@ -26,8 +25,6 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 cdn:
-
-# the avatar on sidebar, support local or CORS resources
 avatar: https://wallup.net/wp-content/uploads/2019/09/720988-tree-forest-road-fog-rain-autumn-mood.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.

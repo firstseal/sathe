@@ -1,0 +1,10 @@
+---
+title: Health is great
+author: [seth]
+date: 2024-08-24 10:57
+# date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [chatting]
+tags: [health]
+---
+
+My health has been great over the past few days (potentially weeks). I've been drinking this special type of coffee, [everydaydose](https://everydaydose.com) and it's been really helping me. I've also been avoiding sugars, caffiene like from Coke and such. My blood pressure went from stage 2 down to normal!! On top of that, my recovery score and HRV has been phenomenal! My biggest issue as of now would be my spine and neck.  I know I shouldn't adjust it myself. I'm trying not to but it's hard. I've been having some sort of a shocking pain down the side of my body occasionally when I move. I've been really trying. I got this Carpio LTT Edition wrist rest which is supposed to help prevent CT in the wrist. I at one point had this I believe. Not sure how CT can just... go away. I guess the nerve in my wrist is less inflamed because I don't play games as often as I once used to. Either way, it's a good idea to have. I've been drinking plenty of water as well. Been avoiding all sorts of bad things I normally did. I haven't had to take my panic attack meds in a while too!!!!!!! Yay!!!!. I haven't drunken alcohol in perhaps a month? Not sure. I remember the last time I did drink alcohol, I had just one container and didn't even finish it half way. I've been saving up my money as well too!! My dog has been coming into my room. I love her. The only thing that has been an issue would be housing for school, but I am working on it. I haven't been eating junk food either!! Though, I think I've actually lost weight, butt I haven't weighed myself in a bit. I've been like, kinda trying to avoid weighing myself because sometimes my weight can trigger me. But I feel great. Some say I need to gain weight. IDK. I don't like talking about my weight. I have been slacking on studying and journaling my thoughts but this will all change. Same with exercising. I've just been feeling so very great! Yay. Maybe this is all related to the coffee? Maybe it's just coincidence. Not sure. Coffee was a player in this though.

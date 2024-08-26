@@ -10,26 +10,13 @@ Only HE knows.
 
 ---
 
-## About me
-
 Hello. I sometimes do cool things.
 
 ---
 
-## Games
-<div id="server-widget"></div>
+# Games
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    let widget = new SteamServer('#server-widget', {
-        addr: '135.125.189.220:27055',
-        //You can specify the same attributes as shown in the table above as well as events (see below)
-    });
-});
-</script>
-
-<steam-user steamid="FacistFemboy"></steam-user>
-
+![Steam Profile](https://steam-widget.com/widget/img?id=FacistFemboy&purpose=github_repo&width=350)
 
 <div style='text-align: right;'>
     <h2>Currently Playing</h2>

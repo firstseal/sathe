@@ -16,8 +16,19 @@ Hello. I sometimes do cool things.
 
 # Games
 
-![Steam Profile](https://steam-widget.com/widget/img?id=FacistFemboy&purpose=github_repo&width=350)
+I like to play games. If you'd want to play a game with me, just ask!
 
 <div style='text-align: right;'>
     <h2>Currently Playing</h2>
 </div>
+
+> Games that I am currently rotating through, though occasionally i'll play something else
+{: .prompt-tip }
+
+- [Star Citizen](https://robertsspaceindustries.com/star-citizen)
+
+- [BodyCam](https://reissad.com/)
+
+- [No Man's Sky](https://www.nomanssky.com/)
+
+- [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)

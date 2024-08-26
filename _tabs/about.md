@@ -21,4 +21,3 @@ Hello. I sometimes do cool things.
 <div style='text-align: right;'>
     <h2>Currently Playing</h2>
 </div>
-

@@ -16,6 +16,8 @@ Hello. I sometimes do cool things.
 
 # Games
 
+<br>
+
 I like to play games. If you'd want to play a game with me, just ask!
 
 <div style='text-align: right;'>

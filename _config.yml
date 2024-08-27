@@ -213,9 +213,6 @@ jekyll-spaceship:
 redirect_from:
   json: false
 
-font-awesome:
-  assets: true
-
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -226,4 +223,3 @@ plugins:
   - jekyll_include_plugin
   - jekyll-redirect-from
   - jekyll-toc
-  - jekyll-font-awesome-sass

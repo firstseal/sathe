@@ -23,3 +23,13 @@ In the modern age, it is extremely difficult to have a system that is 100% secur
 </div>
 
 In terms of secure storage, the debate ultimately arrives at HDD vs SSD. The main difference in terms of security for HHD's over SSD's is that with HDD's you can visibly inspect the platter for writed content. HHD's physically write 1's and 0's onto the platter with a small magnetic needle. Since the platter is essentially a physical "CD" we can clearly inspect it. When utilizing secure deletion, it is paramount to verify that the content has actually been overwritten. With HDD's you can verify this. With SSD's you cannot.
+
+## Operating System
+
+In terms of security, the *best* operating system is going to be [Qubes OS](https://www.qubes-os.org/). QubesOS is based upon virtualization which provides the best security we can achieve on a personal system. Of course, it is absolutely crucial to [verify the signature](https://www.qubes-os.org/security/verifying-signatures/). If the image is malicious, then it can be assumed the entire device is infected as well.
+
+Qubes is comprised of several "virtual systems" (technically they are *not*, but for terms of those who are not famillear with Qubes) called Qubes. Each of these are based upon their own templates. What seperates Qubes from using several VMs on a host, is the base image is provided as a template. Each Qube will utilize the selected template, the OS files in the Qube are volitile meaning that if you need to make changes to the actual *host* (template), you can do so in the template Qube. Changing a setting in the template will persist to all Qubes with those selected as the template.
+
+With Qubes, you can induldge in some extremely crazy things. Each USB device connected can be automatically attached to a ``sys-usb`` Qube, meaning that a potentially malicious USB device is immedietely sandboxed in an offline Qube. On top of that, it is possible to have private keys stored in an offline Qube, and use passthrough to sign and verify signatures to a Qube connected to the network, all while keeping your private keys offline & secure within their own Qube.
+
+The possibilities are quite infinite with Qubes. Discussing them all here is impractical for the scope of this.

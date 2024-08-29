@@ -46,7 +46,7 @@ I like to play games. If you'd want to play a game with me, just ask!
 I enjoy most types of music. From classical music to heavy rock. I'm not sure what determines what kind of music I like for the time being. Nightcore might be my favorite.
 
 <div style='text-align: right;'>
-    <h2>Playlists/h2>
+    <h2>Playlists</h2>
 </div>
 
 *Some of the playlists I enjoy.*

@@ -14,7 +14,7 @@ I will be analyzing my habits, health and sharing various metrics.
 
 To start off, let's analyze my daily strain. This will help us identify potential anomalies and give us a better understanding of other metrics.
 
-[](../assets/img/weeklyanalysis1/9-10-strain.png)
+![](../assets/img/weeklyanalysis1/9-10-strain.png)
 
 On the graph, we can see the day strain vs recovery.
 
@@ -61,13 +61,13 @@ First, let's import the data into a table, creating rows `1-7` referencing the d
 
 Creating an initial histogram of *n=7*
 
-[](../assets/img/weeklyanalysis1/strainhistogram.png)
+![](../assets/img/weeklyanalysis1/strainhistogram.png)
 
 This doesn't really give us the full picture, and is quite difficult to understand. We are just clustering here.
 
 Instead, we can see the range within a boxplot:
 
-[](../assets/img/weeklyanalysis1/strainboxplot.png)
+![](../assets/img/weeklyanalysis1/strainboxplot.png)
 
 We can see some valuable information such as:
 
@@ -81,7 +81,7 @@ This lets us get a visual of the range. Theoretically the maximum amount of stra
 
 Again, we can visualize this data:
 
-[](../assets/img/weeklyanalysis1/strainquantileplot.png)
+![](../assets/img/weeklyanalysis1/strainquantileplot.png)
 
 
 Now, we can add some other values into the mix. Recovery is on a scale of 100%.

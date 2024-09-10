@@ -99,8 +99,9 @@ Following the recovery scores, on the same rows of `1-7`,
 |51|
 
 ```mermaid!
-xychart-beta title "Recovery %"
+xychart-beta
+title "Recovery %"
     x-axis [1, 2, 3, 4, 5, 6, 7]
-    y-axis "Revenue (in $)" 4000 --> 11000
+    y-axis [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
     bar [6, 87, 97, 44, 64, 79, 51]
 ```

@@ -42,6 +42,8 @@ toc: false
 - [BrainFM](https://brain.fm)
     > Music scientifically proven to increase focus
 
+- [RemarkableTablet](https://remarkable.com)
+
 
 ---
 
@@ -103,3 +105,15 @@ toc: false
 
 - Sedating myself
     > Sedating myself at night is beneficial. Keeps my calm during the day. No or almost none anxiety.
+
+---
+
+## Supplements
+
+*I've likely tried most of these here. It's hard for me to take them consistently*
+    > By far, Neurohacker has worked the best. (for me).
+
+- [Neurohacker](https://neurohacker.com/)
+
+- [Neuromaster](https://shop.bulletproof.com/products/energy-focus)
+

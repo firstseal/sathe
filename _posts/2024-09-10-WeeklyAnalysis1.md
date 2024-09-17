@@ -10,6 +10,9 @@ mermaid: true
 
 # Weekly analysis 1.
 
+> I'm sorry, I didn't get a chance to finish this page. Doing all this is time consuming. - 09/17/2024 ~Seth
+{: .prompt-warning }
+
 I will be analyzing my habits, health and sharing various metrics.
 
 To start off, let's analyze my daily strain. This will help us identify potential anomalies and give us a better understanding of other metrics.

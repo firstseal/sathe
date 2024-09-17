@@ -97,3 +97,9 @@ toc: false
 
 - Avoid Alcohol
     > I do enjoy alcohol but it usually causes me 3 days to recover. Quit drinking alone. People make fun of me for that. How do they know though?
+
+- Posture
+    > I have an issue where there isn't enough blood going to my brain. On top of this, my spine and neck is curving. Bad posture is actually why a lot of people die. Good posture will improve a lot of my issues. Headaches would go away, more blood to my brain.
+
+- Sedating myself
+    > Sedating myself at night is beneficial. Keeps my calm during the day. No or almost none anxiety.

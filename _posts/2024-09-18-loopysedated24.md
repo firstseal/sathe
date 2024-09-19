@@ -1,7 +1,7 @@
 ---
 title: everything loopy...
 author: [seth, sathe]
-date: 2024-09-10 10:38
+date: 2024-09-18 21:29
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]
 tags: [confusion]

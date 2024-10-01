@@ -2,6 +2,7 @@
 title: Health Resources
 layout: page
 toc: true
+category: collections
 ---
 
 ## Health & Fitness

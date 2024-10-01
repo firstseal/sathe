@@ -2,6 +2,7 @@
 title: Study
 layout: page
 toc: true
+category: collections
 ---
 
 *Tools I use for studying*

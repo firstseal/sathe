@@ -2,6 +2,7 @@
 title: Customizations
 layout: page
 toc: true
+category: collections
 ---
 
 # Windows

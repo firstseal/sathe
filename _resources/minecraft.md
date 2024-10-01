@@ -2,6 +2,7 @@
 title: MC
 layout: page
 toc: true
+category: collections
 ---
 
 # Projects

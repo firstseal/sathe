@@ -96,17 +96,6 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-collections:
-  tabs:
-    output: true
-    sort_by: order
-  resources:
-    output: true
-    permalink: /:collection/:name
-  guides:
-    output: true
-    permalink: /:collection/:name
-
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -154,15 +143,6 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
 
 scholar:
   style: modern-language-association
@@ -212,6 +192,27 @@ jekyll-spaceship:
 
 redirect_from:
   json: false
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+  resources:
+    output: true
+    permalink: /:collection/:name
+  guides:
+    output: true
+    permalink: /:collection/:name
+
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

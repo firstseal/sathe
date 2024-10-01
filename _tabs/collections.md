@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: autopage_collections
 icon: fa-solid fa-list
 order: 4
 pagination:

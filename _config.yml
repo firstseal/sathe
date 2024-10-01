@@ -291,7 +291,7 @@ autopages:
     title: 'Posts in category :cat'
     # Optional, the permalink for the  pagination page (:cat is replaced), 
     # the pagination permalink path is then appended to this permalink structure
-    permalink: '/category/:cat'
+    permalink: '/category/:resources'
     # Optional, when true logging related to category pages will be supressed.
     silent: false
     slugify:

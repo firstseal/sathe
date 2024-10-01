@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem "jekyll"
-gem "jekyll-paginate-v2"
-gem "jekyll-theme-chirpy"
+gem 'jekyll'
+gem 'jekyll-theme-chirpy'
 
 group :jekyll_plugins do
 
@@ -12,7 +11,8 @@ gem 'jekyll-feed'
 gem 'jekyll-tagging'
 gem 'jekyll-compose'
 gem 'jekyll-optional-front-matter'
-gem "jekyll-auto-authors"
+gem 'jekyll-paginate-v2'
+gem 'jekyll-auto-authors'
 gem 'jekyll-loading-lazy'
 gem 'jekyll-typogrify'
 gem 'jekyll-sitemap'

@@ -302,8 +302,8 @@ autopages:
   collections:
     layouts: 
       - 'autopage_collection.html'
-    title: 'Posts in collection :resources' # :coll is replaced by the collection name
-    permalink: '/collection/:resources'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
     silent: false
     slugify:
       mode: 'default'   # :coll is slugified.

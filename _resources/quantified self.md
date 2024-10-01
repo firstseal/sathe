@@ -8,6 +8,8 @@ toc: true
 
 *will organize this when i actually can get things done*
 
+[awesome quantified self](https://github.com/woop/awesome-quantified-self)
+
 https://www.mindbank.ai/
 https://www.aidlab.com/
 https://www.tunum.health/

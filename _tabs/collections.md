@@ -1,5 +1,5 @@
 ---
-layout: home2
+layout: home
 icon: fa-solid fa-list
 order: 4
 pagination:

@@ -291,7 +291,7 @@ autopages:
     title: 'Posts in category :cat'
     # Optional, the permalink for the  pagination page (:cat is replaced), 
     # the pagination permalink path is then appended to this permalink structure
-    permalink: '/category/:resources'
+    permalink: '/category/:cat'
     # Optional, when true logging related to category pages will be supressed.
     silent: false
     slugify:
@@ -302,8 +302,8 @@ autopages:
   collections:
     layouts: 
       - 'autopage_collection.html'
-    title: 'Posts in collection :coll' # :coll is replaced by the collection name
-    permalink: '/collection/:coll'
+    title: 'Posts in collection :resources' # :coll is replaced by the collection name
+    permalink: '/collection/:resources'
     silent: false
     slugify:
       mode: 'default'   # :coll is slugified.

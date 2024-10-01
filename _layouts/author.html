@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- This has the username of author. The one that you set with "author: name" in front-matter-->
+{% assign author_username = page.pagination.author %}
+
+<!-- Use page.pagination.author_data only if you have data file setup correctly -->
+{% assign author = page.pagination.author_data %}
+<!--
+  Now you can use the author variable anyhow.
+  It has all the data as defined inside _data/authors.yml for the current username.
+-->
+
+  <head>
+    <!-- See how we can use values inside the author variable. -->
+    <meta name="description" content={{ author.bio }}>
+    <!-- other stuff -->
+  </head>
+
+  <body>
+    <h1>{{ author.name }}</h1>
+    <p>{{ author.bio }}</p>
+    <a href="{{ author.website }}">Portfolio</a>
+    {% assign links = author.socials %}
+    <a href="{{ link.twitter }}">Twitter</a>
+    <a href="{{ link.github }}">GitHub</a>
+
+    <!--
+      The main logic for rendering an author's posts resides here.
+      The plugin exposes a paginator object that you can use to loop through the post.
+      It handles all the pagination logic for you.
+    -->
+    {% for post in paginator.posts %}
+      {% include postbox.html %}
+    {% endfor %}
+
+    <!--
+      If there are more pages rendered for current author's posts, show
+      "Previous" / "Next" links for navigation
+    -->
+    {% if paginator.total_pages > 1 %}
+    <ul>
+      {% if paginator.previous_page %}
+      <li>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
+      </li>
+      {% endif %}
+
+      {% if paginator.next_page %}
+      <li>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+      </li>
+      {% endif %}
+    </ul>
+    {% endif %}
+  </body>
+
+</html>

@@ -4,9 +4,6 @@ icon: fa-solid fa-list
 order: 4
 pagination:
   enabled: true
-  collection: resources
-  permalink: /:num/
-  debug: true
 ---
 > This is a directory of *my* __collections__.
 {: .prompt-info }

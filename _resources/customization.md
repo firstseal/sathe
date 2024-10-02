@@ -3,6 +3,8 @@ title: Customizations
 layout: page
 toc: true
 category: collections
+pagination:
+  enabled: true
 ---
 
 # Windows

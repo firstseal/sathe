@@ -3,6 +3,7 @@ title: Productivity
 layout: page
 toc: true
 category: collections
+tag: resources
 ---
 
 *A list of things that i've found to be useful for productivity. I probably use most of the things listed here.*

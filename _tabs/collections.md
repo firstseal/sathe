@@ -5,6 +5,7 @@ order: 4
 pagination:
   enabled: true
   collection: resources
+  tag: resources
 ---
 > This is a directory of *my* __collections__.
 {: .prompt-info }

@@ -3,6 +3,7 @@ title: Study
 layout: page
 toc: true
 category: collections
+tag: resources
 ---
 
 *Tools I use for studying*

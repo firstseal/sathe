@@ -3,6 +3,7 @@ title: MC
 layout: page
 toc: true
 category: collections
+tag: resources
 ---
 
 # Projects

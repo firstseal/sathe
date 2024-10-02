@@ -3,6 +3,7 @@ title: Hacking Resources
 layout: page
 toc: true
 category: collections
+tag: resources
 ---
 
 List of penetration-testing tools and whatnot.

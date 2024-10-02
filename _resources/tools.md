@@ -3,6 +3,7 @@ title: Tools for Myself
 layout: page
 toc: false
 category: collections
+tag: resources
 ---
 
 > This is a list of resources & services for myself.

@@ -3,6 +3,7 @@ title: Health Resources
 layout: page
 toc: true
 category: collections
+tag: resources
 ---
 
 ## Health & Fitness

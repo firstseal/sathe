@@ -1,7 +1,7 @@
 ---
 title: feeling real wired
 author: [seth, deathrow]
-date: 2024-10-10 16:41
+date: 2024-10-10 15:41
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]
 tags: []

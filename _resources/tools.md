@@ -9,6 +9,10 @@ tag: resources
 > This is a list of resources & services for myself.
 {: .prompt-info }
 
+*I also have a [study list](./study.md) of various resources and how they benefit me!*
+
+---
+
 ## Resources & URLs
 
 - [Neurodiversityhub](https://www.neurodiversityhub.org/)

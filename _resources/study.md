@@ -39,10 +39,6 @@ On top of that, I am using a variety of plugins. Not going to list them all here
 
 [Speechify](https://speechify.com/) is an absolutely amazing service. It uses AI and voice actors to read text for you. This is absolutely amazing if you have ADHD or have difficulties reading. I try to use it for literally everything. It's absolutely amazing. It even allows you to read faster by gradually increasing the speed of the narrator. On top of that, you can even use custom voices and make your own!
 
-    - [Remarkable Printer](https://github.com/Evidlo/remarkable_printer)
-
-- [Remarkable Tablet](https://remarkable.com)
-
 <br>
 
 ## BrainFM

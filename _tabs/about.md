@@ -8,6 +8,19 @@ The insides of my mind, nobody knows! Nobody except for me? Who knows?? DO I kno
 The point being, nobody knows except for me, yet I have kept it hidden from myself. Only I know but I hide it from myself.
 Only HE knows.
 
+
+Please note, I have some issues and that may cause me to act in a certain way at certain times, just so you are aware.
+
+- Panic attacks
+- ADHD
+- Anxiety
+- Paranoia
+- RSD
+- Hypervigilence
+- Delusions
+
+I don't intend to be rude or manipulative. If I do, please tell me as I have delusions occasionally.
+
 ---
 
 Hello. I sometimes do cool things.
@@ -28,13 +41,19 @@ I like to play games. If you'd want to play a game with me, just ask!
 {: .prompt-tip }
 
 - [Star Citizen](https://robertsspaceindustries.com/star-citizen)
+    > Haven't played in a bit.
 
 - [BodyCam](https://reissad.com/)
+    > Been playing. Slowed down as I finally earned enough points for certain skins I wanted.
 
 - [No Man's Sky](https://www.nomanssky.com/)
+    > Play to relax. My happy place. My safe place.
 
 - [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
+    > Always good. Usually..
 
+- Call of Duty
+    > Been playing a bit recently. Will likely stop and play it again in another year.
 ---
 
 <br>
@@ -66,3 +85,17 @@ I enjoy most types of music. From classical music to heavy rock. I'm not sure wh
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2hSSQ0KXTvAse72NFpoa5g?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5axWmTgtAOqliSEbWPwxYC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+<br>
+
+# Projects
+
+<br>
+
+I do have many projects I am working on. Unsure of which ones I want to make public.
+
+<div style='text-align: right;'>
+    <h2>Currently Working on</h2>
+</div>

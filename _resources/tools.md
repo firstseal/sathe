@@ -15,41 +15,50 @@ tag: resources
 
 ## Resources & URLs
 
-- [Neurodiversityhub](https://www.neurodiversityhub.org/)
-
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
+    > Interactive guide to why you might feel like shit.
 
 - [RDCTD](https://rdctd.pro/)
 
-- [Aphantasia](https://aphantasia.com/)
-
-- [Qualia Life](https://www.qualialife.com/)
 
 - [Ascent](https://play.google.com/store/apps/details/Ascent_mindful_appblock?id=com.ascent&hl=en_US&pli=1)
 
-- [Healthline](https://www.healthline.com/)
 
 - [FMHY](https://fmhy.net/edupiracyguide)
 
-- [Everyday Dose](https://www.everydaydose.com/)
+
+---
+
+## Mental Health / Condition-specific for me
+
+- [Neurodiversityhub](https://www.neurodiversityhub.org/)
+
+- [Aphantasia](https://aphantasia.com/)
+
+- [Healthline](https://www.healthline.com/)
+
 
 ---
 
 ## Things I use for myself
 
 - [Whoop](https://join.whoop.com/seth)
+    > Health tracker that monitors 24/7 and gives insight based on my activities.
 
 - [Apollo](https://apolloneuro.com/)
+    > Reduce stress and such using vibration therapy.
 
 - [OzloSleepbuds](https://ozlosleep.com/)
+    > Listen to music / binural beats while sleeping with these!
 
 - [Foci](https://fociai.com/)
+    > Measure focus level based on breaething.
 
 - [BrainFM](https://brain.fm)
     > Music scientifically proven to increase focus
 
 - [RemarkableTablet](https://remarkable.com)
-
+    > Paper-like tablet. No distractions.
 
 ---
 
@@ -99,6 +108,7 @@ tag: resources
 
 - To Do lists
     > TODO LISTS ARE AWESOME. Remembering to use them is difficult. I use my Remarkable Tablet. I try to set this out in an area I use every day.
+        > Update!! Been using Todoist. Very good.
 
 - Form Habits
     > I do better getting up every day at the same time and doing the same thing every day. I can't let my schedule slip.
@@ -112,12 +122,21 @@ tag: resources
 - Sedating myself
     > Sedating myself at night is beneficial. Keeps my calm during the day. No or almost none anxiety.
 
+- Taking Meds in certain order
+    > I need to take M1 right when I wake up, and after I eat and maybe some studying, take M2. M3 & M4 as-needed. M5 & M6 should be used under certain circumstances.
+
 ---
 
-## Supplements
+## Vitamins / Supplements etc.
 
 *I've likely tried most of these here. It's hard for me to take them consistently*
     > By far, Neurohacker has worked the best. (for me).
+
+- [Qualia Life](https://www.qualialife.com/)
+    > Best vitamins i've taken. Very expensive. Haven't taken them in a while due to the cost.
+
+- [Everyday Dose](https://www.everydaydose.com/)
+    > Mushroom coffee, helps improve focus signifigantly.
 
 - [Neurohacker](https://neurohacker.com/)
 

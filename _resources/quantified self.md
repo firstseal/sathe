@@ -12,9 +12,12 @@ tag: resources
 
 [awesome quantified self](https://github.com/woop/awesome-quantified-self)
 
-https://www.mindbank.ai/
-https://www.aidlab.com/
-https://www.tunum.health/
+[MindBank](https://mindbank.ai)
+
+[Aidlab](https://www.aidlab.com/)
+
+[Tumnum](https://www.tunum.health/)
+
 https://www.nof1plus.com/
 https://gyrosco.pe/
 https://exist.io/

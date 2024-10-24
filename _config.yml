@@ -230,4 +230,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-toc
 #  - jekyll-paginate-v2
-  - jekyll-auto-authors
+#  - jekyll-auto-authors

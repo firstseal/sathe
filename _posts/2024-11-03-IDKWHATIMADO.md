@@ -1,0 +1,10 @@
+---
+title: IDK WHAT TO DO WITH MYSELF
+author: [seth, deathrow]
+date: 2024-11-03 21:12
+# date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [chatting]
+tags: []
+---
+
+Honestly, I do not know what I am going to do with myself... I missed my therapy appointment, and now I haven't gone back. I think I need a break from college. I do not want to do this but, I think I have to. I'm not learning anything, nothing is hands-on, I frequently find myself not interested in the content as I already know it. I literally have known most of the things in my classes for years... It's emberassing. I just haven't been able to focus recently, or stay in the right headspace. I haven't been journaling either. On top of that, haven't really been eating. The only good thing that has improved is my sleep. Nothing interests me much. I've been dissociating like crazy. I just don't know what else to do. I think I just need a break. It's upsetting because my oldself would literally kill me for everything i've done. I haven't seen him in a very long time... If i did, i would literally be dead. or bleeding out in the bathtub. I know he was strict, but it was worth it though. Maybe one day we'll get him back, but he's not here now is he. Nope. It's hard to do anything. I have so much I want to do, I just can't. and it even sucks that nobody IRL talks to me anymore. I've been getting extremely dizzy again, and I don't know why. I need routine. But I get lonely with routine. Sometimes I just wanna do something. I wanna go to haunted houses with friends, I wanna go to rollercoasters and the movies... but I don't have anybody to do those things with :c. I've tried meeting new people, just it's almost impossible for me to make friends unless i'm literally forced to. IDK how to describe it. I used to be so much better. I know I shouldn't reminisse on the past, but I used to be better than this. I literally,  I don't know what I need. Every day is a blur, sometimes I just can't remember anything thats happened, other times I get really confused. I wish I had a friend who lived with me. I just wanna hug someone sometimes but i cant. :c makes me sad.

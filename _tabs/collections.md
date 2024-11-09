@@ -1,7 +1,7 @@
 ---
 layout: collection
 icon: fa-solid fa-list
-order: 4
+order: 2
 pagination:
   enabled: true
 ---

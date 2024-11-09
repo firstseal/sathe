@@ -4,6 +4,7 @@ layout: page
 toc: true
 category: collections
 tag: resources
+description: random list for MC related things 
 ---
 
 # Projects

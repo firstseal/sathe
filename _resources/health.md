@@ -4,6 +4,7 @@ layout: page
 toc: true
 category: collections
 tag: resources
+description: could probably be deleted, but health things I use
 ---
 
 ## Health & Fitness

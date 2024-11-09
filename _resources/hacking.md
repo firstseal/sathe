@@ -4,6 +4,7 @@ layout: page
 toc: true
 category: collections
 tag: resources
+description: Pen-testing tools and such
 ---
 
 List of penetration-testing tools and whatnot.

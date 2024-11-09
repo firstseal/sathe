@@ -4,6 +4,7 @@ layout: page
 toc: true
 category: collections
 tag: resources
+description: Random customization things for various OS's
 ---
 
 # Windows

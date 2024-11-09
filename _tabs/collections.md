@@ -5,5 +5,5 @@ order: 2
 pagination:
   enabled: true
 ---
-> This is a directory of *my* __collections__.
+> This is a directory of various pages that I have created related to specific topics.
 {: .prompt-info }

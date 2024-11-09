@@ -21,9 +21,11 @@ Please note, I have some issues and that may cause me to act in a certain way at
 
 I don't intend to be rude or manipulative. If I do, please tell me as I have delusions occasionally.
 
+(Not going to list everything as these are what I believe are crucial for people to understand that want to be a friend.)
+
 ---
 
-Hello. I sometimes do cool things.
+*Hello. I sometimes do cool things.*
 
 ---
 

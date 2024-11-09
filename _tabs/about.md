@@ -101,3 +101,6 @@ I do have many projects I am working on. Unsure of which ones I want to make pub
 <div style='text-align: right;'>
     <h2>Currently Working on</h2>
 </div>
+
+- Security stuffz
+- Privacy stuffz

@@ -16,6 +16,8 @@ social:
 # Pageviews settings
 pageviews:
   provider: goatcounter
+  id: seth # fill in your GoatCounter ID
+
   # now only supports 'goatcounter'
 theme_mode: [dark]
 # [light | dark]

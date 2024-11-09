@@ -213,7 +213,6 @@ collections:
     output: true
     permalink: /:collection/:name
 
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
@@ -224,9 +223,6 @@ jekyll-archives:
     category: /categories/:name/
 
 paginate: 10
-
-
-
 
 plugins:
   - jekyll-feed

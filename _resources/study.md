@@ -4,6 +4,7 @@ layout: page
 toc: true
 category: collections
 tag: resources
+description: Tools I use for studying.
 ---
 
 *Tools I use for studying*

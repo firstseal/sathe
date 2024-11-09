@@ -4,7 +4,7 @@ timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: Sathe's Mind # the main title
+title: Seth's Mind # the main title
 tagline: A look inside my mind # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   A place for my head.

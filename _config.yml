@@ -14,9 +14,16 @@ github:
 social:
   email: seth@seth.rip
 # Pageviews settings
+
+# Web Analytics Settings
+analytics:
+  google:
+    id: # fill in your Google Analytics ID
+  goatcounter:
+    id: seth
+
 pageviews:
   provider: goatcounter
-  id: seth # fill in your GoatCounter ID
 
   # now only supports 'goatcounter'
 theme_mode: [dark]

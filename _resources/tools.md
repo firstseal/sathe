@@ -19,22 +19,17 @@ description: A list of tools and such I use to improve myself.
 ## Resources & URLs
 
 <div class="container">
-
-
-
-<ul>
-{% for resource-url in site.data.links.tools.resources-urls %}
-{% assign tool = site.data.links.tools.resources-urls %}
-
-  <li>
-    <a href="{{ tool.url }}}"> {{ tool.name  }}
-    <blockquote> {{ tool.description }} </blockquote>
-    </a>
-  </li>
-{% endfor %}
-</ul>
+  <div class="last-update">Last updated {{ site.data.links.lastupdate }}</div>
+  {% for entry in site.data.links.tools.resource-urls %}
+  <div class="name-container">
+    <div class="name">
+      <h4>{{ entry.name }}</h4>
+          <a href="{{ name.url }}" alt="_blank" rel="nofollow noopener"> 
+            <blockquote> {{ name.description }} </blockquote>
+            </div>
+        </div>
+    </div>
 </div>
-<br>
 
 ---
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)

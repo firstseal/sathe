@@ -16,6 +16,19 @@ description: A list of tools and such I use to improve myself.
 
 ## Resources & URLs
 
+
+<ul>
+{% for tools in site.data.links %}
+{% assign links = tools_links[1] %}
+
+  <li>
+    <a href="{{ links.url }}}"> {{ links.name  }}
+    <blockquote> {{ link.description }} </blockquote>
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
     > Interactive guide to why you might feel like shit.
 

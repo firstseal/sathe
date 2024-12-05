@@ -18,12 +18,12 @@ description: A list of tools and such I use to improve myself.
 
 
 <ul>
-{% for tools in site.data.links %}
-{% assign links = tools_links[1] %}
+
+{% for tool in site.data.links %}
 
   <li>
-    <a href="{{ links.url }}}"> {{ links.name  }}
-    <blockquote> {{ link.description }} </blockquote>
+    <a href="{{ tool.url }}}"> {{ tool.name  }}
+    <blockquote> {{ tool.description }} </blockquote>
     </a>
   </li>
 {% endfor %}

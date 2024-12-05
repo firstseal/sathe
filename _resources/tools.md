@@ -26,6 +26,7 @@ description: A list of tools and such I use to improve myself.
       <h4>{{ entry.name }}</h4>
           <a href="{{ name.url }}" alt="_blank" rel="nofollow noopener"> 
             <blockquote> {{ name.description }} </blockquote>
+                    {% endfor %}
             </div>
         </div>
     </div>

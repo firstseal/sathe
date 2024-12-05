@@ -20,9 +20,12 @@ description: A list of tools and such I use to improve myself.
 
 <div class="container">
 
+
+
 <ul>
-{% for tool in site.data.links.tools %}
-{% tool = site.data.links.tools.resource-urls %}
+{% for resource-url in site.data.links.tools.resources-urls %}
+{% assign tool = site.data.links.tools.resources-urls %}
+
   <li>
     <a href="{{ tool.url }}}"> {{ tool.name  }}
     <blockquote> {{ tool.description }} </blockquote>

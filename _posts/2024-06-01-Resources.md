@@ -3,7 +3,6 @@ title: Resources
 author: sathe
 categories: [resources]
 tags: [health, links]
-comments: true
 ---
 
 > New information may appear on seperate pages.

@@ -7,6 +7,8 @@ tag: resources
 description: A list of tools and such I use to improve myself.
 ---
 
+
+
 > This is a list of resources & services for myself.
 {: .prompt-info }
 
@@ -16,11 +18,11 @@ description: A list of tools and such I use to improve myself.
 
 ## Resources & URLs
 
+<div class="container">
 
 <ul>
-
-{% for tool in site.data.links %}
-
+{% for tool in site.data.links.tools %}
+{% tool = site.data.links.tools.resource-urls %}
   <li>
     <a href="{{ tool.url }}}"> {{ tool.name  }}
     <blockquote> {{ tool.description }} </blockquote>
@@ -28,7 +30,7 @@ description: A list of tools and such I use to improve myself.
   </li>
 {% endfor %}
 </ul>
-
+</div>
 <br>
 
 ---

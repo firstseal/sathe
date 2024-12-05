@@ -24,12 +24,11 @@ description: A list of tools and such I use to improve myself.
   <div class="name-container">
     <div class="name">
       <h4>{{ entry.name }}</h4>
-          <a href="{{ name.url }}" alt="_blank" rel="nofollow noopener"> 
-            <blockquote> {{ name.description }} </blockquote>
-                    {% endfor %}
+          <a href="{{ name.url }}" alt="_blank" rel="nofollow noopener">
+                <blockquote> {{ name.description }} </blockquote>
             </div>
-        </div>
     </div>
+    {% endfor %}
 </div>
 
 ---

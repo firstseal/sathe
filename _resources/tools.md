@@ -22,9 +22,9 @@ description: A list of tools and such I use to improve myself.
 Last updated {{ site.data.links.lastupdate }}
 
 
-{% for category in site.data.links.tools %}
+{% for resource-urls in site.data.links.tools %}
 
-<a href="{{ category.resource-url.url }}" alt="_blank" rel="nofollow noopener"> {{ category.resource-url.name }}
+<a href="{{ resource-urls.url }}" alt="_blank" rel="nofollow noopener"> {{ resource-urls.name }}
 {% endfor %}
 
 

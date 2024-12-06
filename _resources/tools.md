@@ -18,13 +18,16 @@ description: A list of tools and such I use to improve myself.
 
 ## Resources & URLs
 
-<div class="container">
-  <div class="last-update">Last updated {{ site.data.links.lastupdate }}</div>
+<div>
+  <div>
+  Last updated {{ site.data.links.lastupdate }}
+  </div>
+    <div>
     {% for category in site.data.links.tools %}
-    <div class ="list-container">
-     <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener"> - {{ category.resource-urls.name }}
+     <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener">
+     - {{ category.resource-urls.name }}
+     {% endfor %}
     </div>
-    {% endfor %}
 </div>
 
 

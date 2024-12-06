@@ -18,37 +18,6 @@ description: A list of tools and such I use to improve myself.
 
 ## Resources & URLs
 
-
-
-<div class="container">
-  <div class="last-update">Last updated {{ site.data.links.resources.lastupdate }}</div>
-  {% for entry in site.data.links.resources %}
-  <div class="name-container">
-    <div class="name">
-      <h4>{{ entry.name }}</h4>
-    </div>
-    <div class="url">
-      <ul class="url-list {{ entry.name }}">
-        {% for name in entry.name %}
-        <li>{{ name.url }}
-          <span class="author">by {{ name.description }}</span
-          >{% if planning.star %}<span class="star">★</span>{% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-{% for resource in site.data.links.resources %}
-  <div class="resource">
-    <h2><a href="{{ resource.url }}">{{ resource.name }}</a></h2>
-    <blockquote> {{ resource.description }} </blockquote>
-  </div>
-{% endfor %}
-
-
 - [The Integral Guide](https://integralguide.com/About) - The integral guide to well-being
 
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)

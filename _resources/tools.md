@@ -18,17 +18,15 @@ description: A list of tools and such I use to improve myself.
 
 ## Resources & URLs
 
-<div>
-  <div>
-  Last updated {{ site.data.links.lastupdate }}
-  </div>
-    <div>
+
+Last updated {{ site.data.links.lastupdate }}
+
     {% for category in site.data.links.tools %}
+
      <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener">
+
      - {{ category.resource-urls.name }}
      {% endfor %}
-    </div>
-</div>
 
 
 

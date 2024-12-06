@@ -23,7 +23,7 @@ Last updated {{ site.data.links.lastupdate }}
 
 
 <a href="{{ site.data.links.tools.url }}" alt="_blank" rel="nofollow noopener"> {{ resource-urls.name }}
-{% endfor %}
+
 
 
 

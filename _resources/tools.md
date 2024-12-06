@@ -21,6 +21,7 @@ description: A list of tools and such I use to improve myself.
 
 Last updated {{ site.data.links.lastupdate }}
 
+ {{ site.data.link.tools.resource-urls.name }}
 
 {% for resource-urls in site.data.links.tools %}
 

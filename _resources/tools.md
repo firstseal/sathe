@@ -19,16 +19,16 @@ description: A list of tools and such I use to improve myself.
 ## Resources & URLs
 
 
-Last updated {{ site.data.links.lastupdate }}
+{% for resource in site.data.links.resources %}
+  <div class="resource">
+    <h2><a href="{{ resource.url }}">{{ resource.name }}</a></h2>
+    <blockquote> {{ resource.description }} </blockquote>
+  </div>
+{% endfor %}
 
 
-<a href="{{ site.data.links.tools.url }}" alt="_blank" rel="nofollow noopener"> {{ resource-urls.name }}
+- [The Integral Guide](https://integralguide.com/About) - The integral guide to well-being
 
-
-
-
-
----
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
     > Interactive guide to why you might feel like shit.
 
@@ -36,7 +36,6 @@ Last updated {{ site.data.links.lastupdate }}
 
 
 - [Ascent](https://play.google.com/store/apps/details/Ascent_mindful_appblock?id=com.ascent&hl=en_US&pli=1)
-
 
 - [FMHY](https://fmhy.net/edupiracyguide)
 

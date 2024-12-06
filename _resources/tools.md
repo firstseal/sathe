@@ -23,10 +23,10 @@ description: A list of tools and such I use to improve myself.
   {% for category in site.data.links.tools %}
    <div class ="list-container">
     <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener"> - {{ category.resource-urls.name }}
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
-    </div>
-</div>
+
 
 ---
 - [You Feel like Shit](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)

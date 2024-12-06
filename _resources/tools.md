@@ -24,9 +24,7 @@ Last updated {{ site.data.links.lastupdate }}
 
 {% for category in site.data.links.tools %}
 
-<a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener">
-
-- {{ category.resource-urls.name }}
+<a href="{{ site.data.links.tools.resource-url.url }}" alt="_blank" rel="nofollow noopener"> {{ site.data.links.tools.resource-url.name}} -- {{ site.data.links.tools.resource-url.description }}
 {% endfor %}
 
 

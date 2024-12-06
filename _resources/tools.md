@@ -22,7 +22,6 @@ description: A list of tools and such I use to improve myself.
   <div class="last-update">Last updated {{ site.data.links.lastupdate }}</div>
   {% for category in site.data.links.tools %}
    <div class ="list-container">
-    {{ category.resource-urls }}
     <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener"> - {{ category.resource-urls.name }}
     </div>
     {% endfor %}

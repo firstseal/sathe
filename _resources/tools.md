@@ -21,11 +21,8 @@ description: A list of tools and such I use to improve myself.
 
 Last updated {{ site.data.links.lastupdate }}
 
- {{ site.data.link.tools.resource-urls.name }}
 
-{% for resource-urls in site.data.links.tools %}
-
-<a href="{{ resource-urls.url }}" alt="_blank" rel="nofollow noopener"> {{ resource-urls.name }}
+<a href="{{ site.data.links.tools.url }}" alt="_blank" rel="nofollow noopener"> {{ resource-urls.name }}
 {% endfor %}
 
 

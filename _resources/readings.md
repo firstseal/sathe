@@ -18,10 +18,7 @@ description: List of things I have already read, and things that I plan to read.
     <div class="planning">
       <ul class="reading-list {{ entry.year }}">
         {% for planning in entry.planning %}
-        <li>
-          <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
-            planning.title
-          }}</a>
+        <li>{{ planning.title }}
           <span class="author">by {{ planning.author }}</span
           >{% if planning.star %}<span class="star">★</span>{% endif %}
         </li>

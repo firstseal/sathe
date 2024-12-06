@@ -14,19 +14,20 @@ description: A list of tools and such I use to improve myself.
 
 *I also have a [study list](./study.md) of various resources and how they benefit me!*
 
----
+
 
 ## Resources & URLs
 
 
 Last updated {{ site.data.links.lastupdate }}
+<div>
+{% for category in site.data.links.tools %}
 
-    {% for category in site.data.links.tools %}
+<a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener">
 
-     <a href="{{ category.resource-urls.url }}" alt="_blank" rel="nofollow noopener">
-
-     - {{ category.resource-urls.name }}
-     {% endfor %}
+- {{ category.resource-urls.name }}
+{% endfor %}
+</div>
 
 
 

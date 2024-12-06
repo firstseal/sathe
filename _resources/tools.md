@@ -21,12 +21,12 @@ description: A list of tools and such I use to improve myself.
 
 Last updated {{ site.data.links.lastupdate }}
 
-<div class = "container">
+
 {% for category in site.data.links.tools %}
 
 <a href="{{ category.resource-url.url }}" alt="_blank" rel="nofollow noopener"> {{ category.resource-url.name }}
 {% endfor %}
-</div>
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: the final end.
 author: [seth, deathrow]
-date: 2024-12011 17:03
+date: 2024-12-11 17:03
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [chatting]
 tags: []

@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 gem 'jekyll'
-#gem 'jekyll-theme-chirpy'
+gem 'jekyll-theme-chirpy'
 
 group :jekyll_plugins do
 gem 'jekyll-content-security-policy-generator'

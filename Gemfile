@@ -20,7 +20,7 @@ gem 'jekyll-spaceship'
 gem 'jekyll_include_plugin'
 gem 'jekyll-redirect-from'
 gem 'jekyll-toc'
-ge  'webrick'
+gem 'webrick'
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"

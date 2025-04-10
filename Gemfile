@@ -2,10 +2,10 @@
 
 source "https://rubygems.org"
 
-gemspec
 gem 'jekyll', '~> 4.4', '>= 4.4.1'
 gem 'jekyll-theme-chirpy', '~> 7.2', '>= 7.2.4'
 gem "html-proofer", "~> 5.0", group: :test
+gem 'jekyll-paginate'
 gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'
 gem 'jekyll-tagging'

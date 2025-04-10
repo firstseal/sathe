@@ -5,7 +5,6 @@ source "https://rubygems.org"
 gem 'jekyll'
 gem 'jekyll-theme-chirpy'
 gem "html-proofer", "~> 5.0", group: :test
-gem 'jekyll-paginate'
 gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'
 gem 'jekyll-tagging'
@@ -22,7 +21,7 @@ gem 'jekyll-spaceship'
 gem 'jekyll_include_plugin'
 gem 'jekyll-redirect-from'
 gem 'jekyll-toc'
-gem 'faraday-retry'
+
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"

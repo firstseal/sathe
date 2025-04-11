@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
+gem 'jekyll-theme-chirpy', '~> 7.2', '>= 7.2.4'
 gem "html-proofer", "~> 5.0", group: :test
 gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'

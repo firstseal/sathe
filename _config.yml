@@ -1,5 +1,5 @@
-theme: jekyll-theme-chirpy
-#remote-theme: cotes2020/jekyll-theme-chirpy
+#theme: jekyll-theme-chirpy
+remote-theme: cotes2020/jekyll-theme-chirpy
 lang: en
 timezone: America/New_York
 
@@ -72,7 +72,7 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: false # boolean, keep empty means false
+    enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]

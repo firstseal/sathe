@@ -3,16 +3,16 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem 'jekyll-theme-chirpy
-gem "sprockets", "~> 3.7"
-#gem "html-proofer", "~> 5.0", group: :test
+gem 'jekyll-theme-chirpy'
+
+# gem "html-proofer", "~> 5.0", group: :test
 gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'
 gem 'jekyll-tagging'
 gem 'jekyll-compose'
 gem 'jekyll-optional-front-matter'
-#gem 'jekyll-paginate-v2'
-#gem 'jekyll-auto-authors'
+# gem 'jekyll-paginate-v2'
+# gem 'jekyll-auto-authors'
 gem 'jekyll-loading-lazy'
 gem 'jekyll-typogrify'
 gem 'jekyll-sitemap'

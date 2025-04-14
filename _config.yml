@@ -1,5 +1,4 @@
 theme: jekyll-theme-chirpy
-#remote_theme: cotes2020/jekyll-theme-chirpy
 #remote_theme: https://github.com/cotes2020/jekyll-theme-chirpy
 lang: en
 timezone: America/New_York
@@ -76,7 +75,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: production # [development | production]
 
 pwa:
   enabled: false # the option for PWA feature (installable)

@@ -5,7 +5,6 @@ source "https://rubygems.org"
 gem 'jekyll-theme-chirpy'
 gem 'jekyll'
 
-
 # gem "html-proofer", "~> 5.0", group: :test
 gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'

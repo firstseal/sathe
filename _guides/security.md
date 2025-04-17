@@ -28,10 +28,7 @@ In terms of secure storage, the debate ultimately arrives at HDD vs SSD. The mai
     <h3>Additional Readings</h3>
 </div>
 
-
 - [Supply Chain Security](https://en.wikipedia.org/wiki/Supply_chain_security)\
-\
-
 
 ## Operating System
 

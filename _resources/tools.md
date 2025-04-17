@@ -18,7 +18,7 @@ description: A list of tools and such I use to improve myself.
 
 ---
 
-## Resources & URLs
+## Guides & Additional Resources
 
 - [The Integral Guide](https://integralguide.com/About) - The integral guide to well-being
 
@@ -26,7 +26,6 @@ description: A list of tools and such I use to improve myself.
     > Interactive guide to why you might feel like shit.
 
 - [RDCTD](https://rdctd.pro/)
-
 
 - [Ascent](https://play.google.com/store/apps/details/Ascent_mindful_appblock?id=com.ascent&hl=en_US&pli=1)
 
@@ -51,7 +50,7 @@ description: A list of tools and such I use to improve myself.
 - [Whoop](https://join.whoop.com/seth)
     > Health tracker that monitors 24/7 and gives insight based on my activities.
 
-- [Apollo](https://apolloneuro.com/)
+- [Apollo](https://apolloneuro.com/) - The Apollo wearable, designed by leading neuroscientists and physicians, tracks your sleep and delivers gentle Apollo Vibes that improve sleep and vagus nerve activity.
     > Reduce stress and such using vibration therapy.
 
 - [OzloSleepbuds](https://ozlosleep.com/)

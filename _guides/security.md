@@ -38,4 +38,4 @@ Qubes is comprised of several "virtual systems" (technically they are *not*, but
 
 With Qubes, you can induldge in some extremely crazy things. Each USB device connected can be automatically attached to a ``sys-usb`` Qube, meaning that a potentially malicious USB device is immedietely sandboxed in an offline Qube. On top of that, it is possible to have private keys stored in an offline Qube, and use passthrough to sign and verify signatures to a Qube connected to the network, all while keeping your private keys offline & secure within their own Qube.
 
-The possibilities are quite infinite with Qubes. Discussing them all here is impractical for the scope of this.
+The possibilities are quite infinite with Qubes. Discussing them all here is impractical for the scope of this guide.

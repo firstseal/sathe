@@ -1,5 +1,5 @@
 ---
-title: Productivity
+title: Productivity [DEPRECATED]
 layout: page
 toc: true
 category: collections

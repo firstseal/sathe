@@ -1,5 +1,5 @@
 ---
-title: Health Resources
+title: Health Resources [DEPRECATED]
 layout: page
 toc: true
 category: collections

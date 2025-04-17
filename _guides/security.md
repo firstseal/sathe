@@ -39,3 +39,14 @@ Qubes is comprised of several "virtual systems" (technically they are *not*, but
 With Qubes, you can induldge in some extremely crazy things. Each USB device connected can be automatically attached to a ``sys-usb`` Qube, meaning that a potentially malicious USB device is immedietely sandboxed in an offline Qube. On top of that, it is possible to have private keys stored in an offline Qube, and use passthrough to sign and verify signatures to a Qube connected to the network, all while keeping your private keys offline & secure within their own Qube.
 
 The possibilities are quite infinite with Qubes. Discussing them all here is impractical for the scope of this guide.
+
+*Most* Linux / UNIX based operating systems can be configured to be *reasonably secure* (This is italicized as the *ONLY* way to be truley secure on an operating system is to not have one at all). Hardening a Linux system should start from the "ground up", meaning we first have to trust our hardware (which will be explained in another section), along with verifying our kernel and any other programs (which will be explained in another section). After we are reasonably sure that our hardware is secure, we can start with kernel hardening. There is a [dated guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html) which discusses various options for kernel hardening. (Last edit was in 2022 for this guide). The [Arch Wiki](https://wiki.archlinux.org/title/Main_page) has a section for hardening. Most other distros will have documentation relating to the security of the system.
+
+
+<div style='text-align: right;'>
+    <h3>Additional Readings</h3>
+</div>
+
+- [QubesOS](https://qubesos.org)
+
+### Verifying Integrity

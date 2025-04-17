@@ -7,14 +7,16 @@ tag: resources
 description: A list of tools and such I use to improve myself.
 ---
 
-
-
-> This is a list of resources & services for myself.
+> This is a list of resources & services that I use to **peak**
 {: .prompt-info }
 
-*I also have a [study list](./study.md) of various resources and how they benefit me!*
+<br>
 
+## Peaking
 
+<br>
+
+---
 
 ## Resources & URLs
 

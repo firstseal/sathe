@@ -6,22 +6,6 @@ order: 4
 
 The insides of my mind, nobody knows! Nobody except for me? Who knows?? DO I know? Am I aware? What's the point? There is a point?? What is going on here? Everybody clap your hands.
 The point being, nobody knows except for me, yet I have kept it hidden from myself. Only I know but I hide it from myself.
-Only HE knows.
-
-
-Please note, I have some issues and that may cause me to act in a certain way at certain times, just so you are aware.
-
-- Panic attacks
-- ADHD
-- Anxiety
-- Paranoia
-- RSD
-- Hypervigilence
-- Delusions
-
-I don't intend to be rude or manipulative. If I do, please tell me as I have delusions occasionally.
-
-(Not going to list everything as these are what I believe are crucial for people to understand that want to be a friend.)
 
 ---
 

@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-#gem 'jekyll-theme-chirpy'
+gem 'jekyll-theme-chirpy'
 gem 'jekyll'
 
 gem 'jekyll-remote-theme' # https://github.com/benbalter/jekyll-remote-theme

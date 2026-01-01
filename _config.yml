@@ -236,5 +236,6 @@ plugins:
   - jekyll_include_plugin
   - jekyll-redirect-from
   - jekyll-toc
+  - jekyll-remote-theme
 #  - jekyll-paginate-v2
 #  - jekyll-auto-authors

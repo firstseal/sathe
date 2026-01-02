@@ -1,4 +1,13 @@
 ---
 ---
 
-/* empty override – no imports */
+@import "main";
+
+/* optional: custom overrides below, e.g. apply Comic Neue */
+:root {
+  --bs-font-sans-serif: "Comic Neue", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+body {
+  font-family: "Comic Neue", var(--bs-font-sans-serif);
+}

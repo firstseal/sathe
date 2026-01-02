@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem "jekyll-theme-chirpy"
+#gem "jekyll-theme-chirpy"
 gem 'jekyll-remote-theme' # https://github.com/benbalter/jekyll-remote-theme
 
 # gem "html-proofer", "~> 5.0", group: :test

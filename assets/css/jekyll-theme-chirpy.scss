@@ -2,3 +2,13 @@
 ---
 
 @import "main";
+
+/* append your custom style below */
+
+:root {
+  --bs-font-sans-serif: "Comic Neue", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+body {
+  font-family: "Comic Neue", var(--bs-font-sans-serif);
+}

@@ -92,7 +92,7 @@ pwa:
 #paginate: 10
 
 # The base URL of your site
-baseurl: "seth.rip"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 

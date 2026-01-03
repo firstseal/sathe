@@ -226,6 +226,14 @@ jekyll-archives:
 
 paginate: 10
 
+jekyll_csp:
+  indentation: 2
+  newlines: true
+  debug: true
+  inject_self: 
+    - frame-src
+    - style-src
+
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter

@@ -3,11 +3,9 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-#gem "jekyll-theme-chirpy"
 gem 'jekyll-remote-theme' # https://github.com/benbalter/jekyll-remote-theme
-
-# gem "html-proofer", "~> 5.0", group: :test
-gem 'jekyll-content-security-policy-generator'
+gem 'jekyll-csp'
+#gem 'jekyll-content-security-policy-generator'
 gem 'jekyll-feed'
 gem 'jekyll-tagging'
 gem 'jekyll-compose'

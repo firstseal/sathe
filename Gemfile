@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
+gem 'jekyll-theme-chirpy'
+
 gem 'jekyll-remote-theme' # https://github.com/benbalter/jekyll-remote-theme
 gem 'jekyll-csp'
 #gem 'jekyll-content-security-policy-generator'
